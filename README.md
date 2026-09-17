@@ -2,7 +2,8 @@
 
 ### Unity Client / Gameplay Programmer
 
-Unity와 C#을 기반으로 플레이어가 직접 체감하는 **조작, 전투, 상호작용, UI 흐름**을 구현합니다.  
+Unity와 C#을 기반으로 플레이어가 직접 체감하는 **조작, 전투, 상호작용, UI 흐름**을 구현합니다.
+
 기능의 책임을 분리하고, 여러 시스템이 안정적으로 연결되는 게임플레이 구조를 만드는 데 집중합니다.
 
 [**R.I.P Code Showcase**](https://github.com/wjddh1999/RIP-Showcase) · [**Playable Builds**](https://wjddh1998.itch.io/) · [**Portfolio**](https://app.notion.com/p/3a2a971ce6a28101bd9cd8fd9bd4a815?pvs=204)
@@ -21,14 +22,15 @@ Unity 6 기반 3D 메카 액션 프로젝트입니다. 고속 이동, 전투 파
 - Hard Lock 후보 탐색과 Lag Compensation
 - State Authority 기반 데미지·승패 판정
 
-[**Repository & Code Samples →**](https://github.com/wjddh1999/RIP-Showcase)  
+[**Repository & Code Samples →**](https://github.com/wjddh1999/RIP-Showcase)
+
 [**Windows Build on itch.io →**](https://wjddh1998.itch.io/rusty-iron-project)
 
 ## Other Work
 
 ### ReadyToDrive — Manual Transmission Driving Simulator
 
-Standard Assets 차량 제어를 기반으로 클러치·기어 선택·RPM 조건을 연결한 수동 변속 규칙을 구현한 개인 프로젝트입니다. 직접 구현한 코드 발췌와 기반 코드 활용 범위를 함께 정리했습니다.
+Standard Assets 차량 제어를 기반으로 클러치·기어 선택·RPM 조건을 연결한 수동 변속 규칙을 구현한 개인 프로젝트입니다.
 
 [**ReadyToDrive Code Showcase →**](https://github.com/wjddh1999/ReadyToDrive-Showcase)
 
