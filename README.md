@@ -24,6 +24,14 @@ Unity 6 기반 3D 메카 액션 프로젝트입니다. 고속 이동, 전투 파
 [**Repository & Code Samples →**](https://github.com/wjddh1999/RIP-Showcase)  
 [**Windows Build on itch.io →**](https://wjddh1998.itch.io/rusty-iron-project)
 
+## Other Work
+
+### ReadyToDrive — Manual Transmission Driving Simulator
+
+Standard Assets 차량 제어를 기반으로 클러치·기어 선택·RPM 조건을 연결한 수동 변속 규칙을 구현한 개인 프로젝트입니다. 직접 구현한 코드 발췌와 기반 코드 활용 범위를 함께 정리했습니다.
+
+[**ReadyToDrive Code Showcase →**](https://github.com/wjddh1999/ReadyToDrive-Showcase)
+
 ## Focus
 
 - **Gameplay Systems** — Movement · Combat · Camera · Targeting
